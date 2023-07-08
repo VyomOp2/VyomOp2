@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VyomOp2
-- 👀 I’m interested in ... Learning about Ethical Hacking
+- 👀 I’m interested in ... Learning about Ethical Hacking and Pentesting 
 - 🌱 I’m currently learning ... About Network and Security
 - 💞️ I’m looking to collaborate  ... Cyber Security Experts
 - 📫 How to reach me ... Just Mail Me..
