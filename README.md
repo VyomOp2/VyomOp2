@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack Ecommerce Website and practicing as a Cyber Security and Pentester<br>👯 I’m looking to collaborate on Projects which can contribute to the society<br>🌱 I’m currently learning Full stack web Dev and Penetration Testing<br>💬 I am in my 2nd year of Computer Science Degree Program and I am Enthusiast and Passionate to build some useful projects  <br>
+🔭 I’m currently practicing as a Cyber Security and Pentester<br>👯 I’m looking to collaborate on Projects which can contribute to the society<br>🌱 I’m currently learning Full stack web Dev and Penetration Testing<br>💬 I am in my 2nd year of Computer Science Degree Program and I am Enthusiast and Passionate to build some useful projects  <br>
 
 
 ## 🌐 Socials:
