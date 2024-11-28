@@ -1,15 +1,62 @@
-# 💫 About Me:
-🔭 I’m currently practicing as a Cyber Security and Pentester<br>👯 I’m looking to collaborate on Projects which can contribute to the society<br>🌱 I’m currently learning Full stack web Dev and Penetration Testing<br>💬 I am in my 2nd year of Computer Science Degree Program and I am Enthusiast and Passionate to build some useful projects  <br>
+# Hi 👋, I'm Vyom Maloo  
 
+![Profile Banner Image]
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyom-jain) 
+## 🙋🏻‍♂️ About Me  
+Hi, I'm Vyom Maloo! I'm passionate about **Cybersecurity** and **Full-Stack Development**. My expertise spans **Next.js**, **Django**, **PostgreSQL**, **Prisma**, **Web3**, **Blockchain**, and creating innovative solutions in **Pentesting** and **Cloud Security**.  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+I'm also certified in **Quick Heal VAPT & Web VAPT**, **Managing Cloud Infrastructure & Security Analyst**, and **TryHackMe Jr. Penetration Tester**.  
+When not working on tech, I enjoy exploring cybersecurity tools, contributing to open-source, and working on challenging projects.  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+✨ **Key Highlights:**  
+- Built [VD-Auth](https://vd-auth.com), a seamless authentication website.  
+- Developing **CyberSec OS**, a pentesting-focused OS based on Debian 12.  
+- Automated attendance monitoring with **Present-Monitor**.  
+- Created **VD-Shoppers**, a fully functional E-commerce platform.  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VyomOp2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I love connecting with like-minded tech enthusiasts and sharing knowledge!  
+
+---
+
+## 😎 My Skills  
+### Frontend:  
+- HTML, CSS, JavaScript, TypeScript, React, Next.js  
+- UI/UX with Tailwind CSS, Chakra UI  
+
+### Backend:  
+- Node.js, Django, Prisma, Express.js, Mongoose  
+- Database: PostgreSQL, NeonDB, MongoDB  
+
+### Cybersecurity:  
+- VAPT, Cloud Security, AWS Security  
+- Cryptography, DF & IR, Python for Hacking  
+
+### Blockchain/Web3:  
+- Ethereum, Solana, Rust  
+
+---
+
+## 😀 My Projects  
+| Project | Description | Features | Tech Stack | Deploy Link | Start Date | End Date | GitHub Link |  
+|---------|-------------|----------|------------|-------------|------------|----------|-------------|  
+| **CyberSec OS** | Custom pentesting OS for cybersecurity professionals | Debian-based OS with pre-installed tools for pentesting and VAPT | Debian 12 | NA | Nov '24 | Ongoing | Private |  
+| **VD-Auth** | Authentication website with user-friendly login | Next-gen authentication system, easy login (no email verification) | Next.js, TypeScript, Prisma, PostgreSQL, NeonDB | [Link](https://vd-auth.com) | Nov '24 | Present | [GitHub](https://github.com/VyomOp2/Auth) |  
+| **Present-Monitor** | Attendance automation tool for students and teachers | Screenshot and email automation, WhatsApp notifications | Next.js, PostgreSQL | NA | Sep '24 | Present | NA |  
+| **VD-Shoppers** | Fully functional E-commerce platform | Multi-vendor support, responsive UI, secure payments | HTML, CSS, JS, Prisma, PostgreSQL | NA | Aug '24 | Present | NA |  
+| **Weather App** | Real-time weather data | Responsive design, Prisma for DB management | HTML, CSS, JavaScript, PostgreSQL, Netlify | [Link](https://github.com/VyomOp2/Weather-App) | Oct '24 | Oct '24 | [GitHub](https://github.com/VyomOp2/Weather-App) |  
+
+---
+
+## 📜 Certifications  
+- **Quick Heal Certified Managing Cloud Infrastructure and Security Analyst**  
+- **Quick Heal Certified VAPT & Web VAPT**  
+- **TryHackMe Jr. Penetration Tester Learning Path**  
+
+---
+
+## 🌐 Connect with Me  
+- **LinkedIn:** [Vyom Maloo](https://linkedin.com)  
+- **GitHub:** [VyomOp2](https://github.com/VyomOp2)  
+- **Portfolio:** [Coming Soon]  
+
+Feel free to reach out for collaboration, mentorship, or sharing knowledge. Let's make the tech world more secure and innovative together! 🚀  
