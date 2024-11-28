@@ -1,7 +1,5 @@
 # Hi 👋, I'm Vyom Maloo  
 
-![Profile Banner Image]
-
 ## 🙋🏻‍♂️ About Me  
 Hi, I'm Vyom Maloo! I'm passionate about **Cybersecurity** and **Full-Stack Development**. My expertise spans **Next.js**, **Django**, **PostgreSQL**, **Prisma**, **Web3**, **Blockchain**, and creating innovative solutions in **Pentesting** and **Cloud Security**.  
 
