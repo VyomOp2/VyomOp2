@@ -7,7 +7,7 @@ I'm also certified in **Quick Heal VAPT & Web VAPT**, **Managing Cloud Infrastru
 When not working on tech, I enjoy exploring cybersecurity tools, contributing to open-source, and working on challenging projects.  
 
 ✨ **Key Highlights:**  
-- Built [VD-Auth](https://vd-auth.com), a seamless authentication website.  
+- Built [Auth](https://vd-auth.com), a seamless authentication website.  
 - Developing **CyberSec OS**, a pentesting-focused OS based on Debian 12.  
 - Automated attendance monitoring with **Present-Monitor**.  
 - Created **VD-Shoppers**, a fully functional E-commerce platform.  
