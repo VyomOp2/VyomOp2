@@ -1,60 +1,16 @@
-# Hi 👋, I'm Vyom Jain 
+# Hi , I'm Vyom Jain 
 
-## 🙋🏻‍♂️ About Me  
-Hi, I'm Vyom Jain! I'm passionate about **Cybersecurity** and **Full-Stack Development**. My expertise spans in creating innovative solutions in **Pentesting** and **Cloud Security** and **Next.js**, **Django**, **PostgreSQL**, **Prisma**, **Web3**, **Blockchain**. 
-
-I'm also certified in **Quick Heal VAPT & Web VAPT**, **Managing Cloud Infrastructure & Security Analyst**, and **TryHackMe Jr. Penetration Tester**.  
-When not working on tech, I enjoy exploring cybersecurity tools, contributing to open-source, and working on challenging projects.  
-
-✨ **Key Highlights:**  
-- Built [Auth](https://vd-auth.com), a seamless authentication website.  
-- Developing **CyberSec OS**, a pentesting-focused OS based on Debian 12.  
-- Automated attendance monitoring with **Present-Monitor**.  
-- Created **VD-Shoppers**, a fully functional E-commerce platform.  
-
-I love connecting with like-minded tech enthusiasts and sharing knowledge!  
-
+## About Me  
+Hi, I'm Vyom Jain! I'm passionate about **Red Teaming and Cloud Security**. My expertise spans in creating innovative solutions in **Pentesting** and **Cloud Security**
 ---
 
-## 😎 My Skills  
-### Frontend:  
-- HTML, CSS, JavaScript, TypeScript, React, Next.js  
-- UI/UX with Tailwind CSS 
-
-### Backend:  
-- Node.js, Django, Prisma, Express.js, Mongoose  
-- Database: PostgreSQL, NeonDB, MongoDB  
-
+## My Skills  
 ### Cybersecurity:  
-- VAPT, Cloud Security, AWS Security , Mobile Application Pentesting  
-- Cryptography, DF & IR, Python for Hacking  
-
-### Blockchain/Web3:  
-- Rust  
+- VAPT, Cloud Security, AWS Security , Mobile Application Pentesting, Threat Hunting, SOC Operations, Malware Dev, Red Teaming
+- C, Python, Rust, Go-Lang, Javascript
 
 ---
 
-## 😀 My Projects  
-| Project | Description | Features | Tech Stack | Deploy Link | Start Date | End Date | Link |  
-|---------|-------------|----------|------------|-------------|------------|----------|-------------|  
-| **CyberSec OS** | Custom pentesting OS for cybersecurity professionals | Debian-based OS with pre-installed tools for pentesting and VAPT | Debian 12 | NA | Nov '24 | Ongoing | Private |  
-| **Auth** | Authentication website with user-friendly login | Next-gen authentication system, easy login (no email verification) | Next.js, TypeScript, Prisma, PostgreSQL, NeonDB | [Auth](https://vd-auth.com) | Nov '24 | Present | [Auth](https://github.com/VyomOp2/Auth) |  
-| **Present-Monitor** | Attendance automation tool for students and teachers | Screenshot and email automation, WhatsApp notifications | Next.js, PostgreSQL | NA | Sep '24 | Ongoing | NA |  
-| **VD-Shoppers** | Fully functional E-commerce platform | Multi-vendor support, responsive UI, secure payments | HTML, CSS, JS, Prisma, PostgreSQL | NA | Aug '24 | Ongoing | NA |  
-| **Weather App** | Real-time weather data | Responsive design, Prisma for DB management | HTML, CSS, JavaScript, PostgreSQL, Netlify | [Link](https://github.com/VyomOp2/Weather-App) | Oct '24 | Oct '24 | [notify-weather](https://github.com/VyomOp2/Weather-App) |  
-
----
-
-## 📜 Certifications  
-- **Quick Heal Certified Managing Cloud Infrastructure and Security Analyst**  
-- **Quick Heal Certified VAPT & Web VAPT**  
-- **TryHackMe Jr. Penetration Tester Learning Path**  
-
----
-
-## 🌐 Connect with Me  
+## Connect with Me  
 - **LinkedIn:** [Vyom Jain](https://in.linkedin.com/in/vyom-jain)  
-- **GitHub:** [Vyom Jain](https://github.com/VyomJain6904)  
-- **Portfolio:** [Coming Soon]  
-
-Feel free to reach out for collaboration, mentorship, or sharing knowledge. Let's make the tech world more secure and innovative together! 🚀  
+- **Portfolio:** [Website](https://vyom-xyz.vercel.app)  
